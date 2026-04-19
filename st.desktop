@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Doc House
+Comment=slur? i think you'll find i pronounced it very clearly
+GenericName=Terminal
+Icon=ICONPATH
+Exec=EXECPATH %u
+Terminal=false
+Categories=System;TerminalEmulator;
+StartupWMClass=st-256color
