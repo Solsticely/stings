@@ -1,7 +1,8 @@
 # Sting
 
-This is a fork of ST with extra patches and my personal config. History is erased
-because it included personal information at some point.
+This is a fork of ST with extra patches and my personal config. ~~History is
+erased because it included personal information at some point.~~ History has
+been restored, but my changes have been flattened.
 
 `st.png` includes property of the copyright owners of House M.D.. Please get in
 contact if you'd like it removed, I'd gladly oblige.
