@@ -6,6 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Fantasque Sans Mono:pixelsize=24:antialias=true:autohint=true";
+static float borderpx_mult = 0.6;
 
 /*
  * Glyph clip rectangle boundary
